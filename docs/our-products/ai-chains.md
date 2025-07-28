@@ -1,5 +1,11 @@
 # Ultra-scalable AI Blockchains
 
+:::tip[Live now]
+
+This revolutionary architecture is 100% complete and ready to power the future of sovereign blockchains!
+
+:::
+
 ***“Infinitely Hyper-scalable Parallel-layered Multi-blockchain Mesh”*** is the AI-native architecture powering all our current and future sovereign blockchains. A future-ready network of parallel RollApps, each AI-optimized and governed by intelligent agents. This bootstraps a new era of **personalized intelligent blockchain systems**, purpose-built for **performance, security, and interoperability**.
 
 Built on the **Web3 *“dream stack”*** — Dymension’s modular settlement layer + Celestia’s ultra-scalable data availability layer, and leveraging the full power of ***Go Ethereum v1.12.0, Dymension RDK v1.10.0, the Cosmos SDK v0.46.16, CometBFT v0.34.29 Tendermint, Evmos v12, Ethermint v0.22.0, and Celestia v0.23.5***, our blockchains are:
