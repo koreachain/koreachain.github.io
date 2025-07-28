@@ -24,7 +24,7 @@ function HomepageHeader() {
             style={{
               background: '#161d2b',
               color: 'white',
-              border: 'none',
+              border: '1px solid rgba(255, 255, 255, 0.5)',
               boxShadow: '0 3px 16px white',
               fontWeight: 'bold',
               fontSize: '1.2rem',
@@ -32,6 +32,7 @@ function HomepageHeader() {
               borderRadius: '2em',
               transition: 'transform 0.2s',
               transform: 'scale(1)',
+              marginTop: '1rem',
             }}
             onMouseOver={e => (e.currentTarget.style.transform = 'scale(1.07)')}
             onMouseOut={e => (e.currentTarget.style.transform = 'scale(1)')}
@@ -48,7 +49,7 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title} | Open Source AI Blockchain`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

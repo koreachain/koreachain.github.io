@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Korea Chain',
   tagline: 'Speed. Security. AI. Korea Chain: For the People of the World.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -57,12 +57,12 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/social-card.jpg',
     navbar: {
       title: 'Korea Chain',
       logo: {
         alt: 'Korea Chain Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -87,41 +87,29 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Open Source',
           items: [
             {
               label: 'Documentation',
               to: '/docs/intro',
             },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              to: 'https://github.com/koreachain',
+            },
+          ],
+        },
+        // { title: 'Centered', items: [] }, // Uncomment for a centered section
+        {
+          title: 'External Links',
+          items: [
+            {
+              label: 'Korea Chain',
+              to: 'https://korea-chain.com/',
+            },
+            {
+              label: 'Buy NFT for Airdrop ✨',
+              to: 'https://www.tensor.trade/trade/plushylilpenguins',
             },
           ],
         },
