@@ -69,7 +69,12 @@ const config: Config = {
         {
           href: 'https://korea-chain.com/',
           label: 'Korea Chain',
-          position: 'right',
+          position: 'left',
+        },
+        {
+          href: 'https://www.tensor.trade/trade/plushylilpenguins',
+          label: 'Buy NFT for Airdrop ✨',
+          position: 'left',
         },
       ],
     },

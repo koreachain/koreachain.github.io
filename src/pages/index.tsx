@@ -22,7 +22,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="https://www.tensor.trade/trade/plushylilpenguins"
           >
-            🎁 Buy NFT for Airdrop
+            Buy NFT for Airdrop ✨
           </Link>
         </div>
       </div>
