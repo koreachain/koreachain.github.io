@@ -119,6 +119,18 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    metadata: [
+      {name: 'keywords', content: 'blockchain, AI, privacy, crypto, Korea Chain, scalability, interoperability, security'},
+      {name: 'description', content: 'Korea Chain: Ultra-scalable AI blockchains, privacy-first, and future-ready.'},
+      {property: 'og:title', content: 'Korea Chain - Ultra-scalable AI Blockchains'},
+      {property: 'og:description', content: 'Discover Korea Chain: AI-native, privacy-first, hyper-scalable blockchains.'},
+      {property: 'og:image', content: 'img/social-card.jpg'},
+      {property: 'og:type', content: 'website'},
+      {name: 'twitter:card', content: 'summary_large_image'},
+      {name: 'twitter:title', content: 'Korea Chain - Ultra-scalable AI Blockchains'},
+      {name: 'twitter:description', content: 'Discover Korea Chain: AI-native, privacy-first, hyper-scalable blockchains.'},
+      {name: 'twitter:image', content: 'img/social-card.jpg'},
+    ],
   } satisfies Preset.ThemeConfig,
 };
 

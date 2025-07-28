@@ -1,4 +1,12 @@
 ---
+title: Privacy Policy
+description: Learn about Korea Chain's commitment to privacy, data protection, and user freedom. We do not collect personal data.
+keywords:
+  - privacy
+  - blockchain
+  - data protection
+  - Korea Chain
+  - crypto
 sidebar_position: 999
 ---
 

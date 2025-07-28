@@ -1,3 +1,14 @@
+---
+title: Ultra-scalable AI Blockchains
+description: Discover Korea Chain's AI-native blockchain architecture, designed for hyper-scalability, security, and interoperability.
+keywords:
+  - AI blockchains
+  - scalability
+  - interoperability
+  - security
+  - Korea Chain
+sidebar_position: 1
+---
 # Ultra-scalable AI Blockchains
 
 :::info[Live now]
