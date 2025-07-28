@@ -59,11 +59,11 @@ function Feature({title, Svg, Img, description}: FeatureItem) {
               {title}
             </a>
           ) : title === 'Ultra-scalable AI Blockchains' ? (
-            <a href="/open-source/docs/our-products/ai-chains" style={{color: 'inherit', textDecoration: 'underline'}}>
+            <a href="/docs/our-products/ai-chains" style={{color: 'inherit', textDecoration: 'underline'}}>
               {title}
             </a>
           ) : title === 'Supercharged Speed Transactions' ? (
-            <a href="/open-source/docs/our-products/ai-chains" style={{color: 'inherit', textDecoration: 'underline'}}>
+            <a href="/docs/our-products/ai-chains" style={{color: 'inherit', textDecoration: 'underline'}}>
               {title}
             </a>
           ) : (
