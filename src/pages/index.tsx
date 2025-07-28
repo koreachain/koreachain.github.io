@@ -11,7 +11,7 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <header className={clsx('hero hero--primary', styles.heroBanner)} style={{ background: '#161d2b' }}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -21,6 +21,20 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://www.tensor.trade/trade/plushylilpenguins"
+            style={{
+              background: '#161d2b',
+              color: 'white',
+              border: 'none',
+              boxShadow: '0 3px 16px white',
+              fontWeight: 'bold',
+              fontSize: '1.2rem',
+              padding: '0.75em 1.5em',
+              borderRadius: '2em',
+              transition: 'transform 0.2s',
+              transform: 'scale(1)',
+            }}
+            onMouseOver={e => (e.currentTarget.style.transform = 'scale(1.07)')}
+            onMouseOut={e => (e.currentTarget.style.transform = 'scale(1)')}
           >
             Buy NFT for Airdrop ✨
           </Link>
