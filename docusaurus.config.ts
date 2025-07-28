@@ -71,8 +71,8 @@ const config: Config = {
           label: 'Tutorial',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://korea-chain.com/',
+          label: 'Korea Chain',
           position: 'right',
         },
       ],
