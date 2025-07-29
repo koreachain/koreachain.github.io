@@ -25,51 +25,15 @@ jobs:
       - name: Build website
         run: npm run build
 
+      - name: Aggregate docs for Zapier Chatbot
+        run: |
+          for f in docs/**/*.md; do
+            [[ -f "$f" ]]
+            cat "$f" >>./build/assets/docs.md
+          done
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-
-      - name: Call Activepieces docs aggregation webhook
-        uses: nick-fields/retry@v3
-        env:
-          WEBHOOK_ID: ${{ secrets.ACTIVEPIECES_DOCS_AGGREGATION_WEBHOOK_ID }}
-        with:
-          max_attempts: 3
-          retry_wait_seconds: 180
-          #
-          # NOTE: For more robust logic, consider a Node.js or Python script
-          # - Uses only POSIX shell features (no Bash extensions)
-          # - Hides the secret from logs by using an env var and grep -v
-          # - Keeps curl --verbose for debugging (prints headers and body)
-          # - Appends HTTP status code to output for easy parsing
-          # - Accepts any 2xx status code as success (not just 200)
-          # - Prints all output to stderr for GitHub Actions log clarity
-          # - Fails and retries on any non-2xx status code
-          #
-          command: |
-            url="https://cloud.activepieces.com/api/v1/webhooks/$WEBHOOK_ID"
-            tmp="$(mktemp)"
-            output_and_code="$(
-              curl --verbose --location --max-time 180 --write-out "\n%{http_code}" -o "$tmp" "$url" 2>&1 |
-              grep -v "$WEBHOOK_ID"
-            )"
-            status_code="$(printf '%s\n' "$output_and_code" | tail -n 1)"
-            printf '%s\n\n%s\n' "$output_and_code" "$(cat "$tmp")" 1>&2
-            case "$status_code" in
-              2*)
-              ;;
-              *)
-                printf '%s\n' "ERROR: Webhook call failed with HTTP status $status_code." 1>&2
-                rm -f "$tmp"
-                exit 1
-              ;;
-            esac
-            if grep -Eq '"error":|"errors":' "$tmp"; then
-              printf '%s\n' "ERROR: Response body contains errors. HTTP status $status_code." 1>&2
-              rm -f "$tmp"
-              exit 1
-            fi
-            rm -f "$tmp"
-            printf '%s\n' "Webhook call completed successfully." 1>&2
