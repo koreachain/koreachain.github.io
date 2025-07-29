@@ -27,10 +27,10 @@ jobs:
 
       - name: Aggregate docs for Zapier Chatbot
         run: |
-          for f in docs/**/*.md; do
-            [[ -f "$f" ]]
-            cat "$f" >>./build/assets/docs.md
-          done
+          while read -r file; do
+            cat "$file"
+            echo -e "\n\n\n"
+          done < <(find ./docs -name '*.md') >./build/assets/docs.md
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
