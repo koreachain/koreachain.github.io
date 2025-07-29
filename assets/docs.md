@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+official_documentation_link: https://koreachain.github.io/docs/privacy-policy
 description: Learn about Korea Chain's commitment to privacy, data protection, and user freedom. We do not collect personal data.
 keywords:
   - privacy
@@ -28,9 +29,9 @@ We are committed to openness, transparency, and protecting your right to privacy
 
 
 
-
 ---
 title: Ultra-scalable AI Blockchains
+official_documentation_link: https://koreachain.github.io/docs/our-products/ai-chains
 description: Discover Korea Chain's AI-native blockchain architecture, designed for hyper-scalability, security, and interoperability.
 keywords:
   - AI blockchains
@@ -78,7 +79,6 @@ By being **enshrined at the L1 level**, our blockchains benefit from **shared 
 Being AI-optimized and governed by intelligent agents that continuously learn from common patterns to enhance performance and security, they oversee validators and their infrastructure, manage resource allocation, and influence major decisions affecting the entire ecosystem — thus creating a truly evolving domain for **blockchains that are managed intelligently**.
 
 Infinitely Hyper-scalable Parallel-layered Multi-blockchain Mesh is more than interconnected L2 rollups — it is the next evolution of the internet itself — the “***Internet of Blockchains Revolution***”.
-
 
 
 
