@@ -1,4 +1,35 @@
 ---
+title: Privacy Policy
+description: Learn about Korea Chain's commitment to privacy, data protection, and user freedom. We do not collect personal data.
+keywords:
+  - privacy
+  - blockchain
+  - data protection
+  - Korea Chain
+  - crypto
+sidebar_position: 999
+---
+
+# Privacy Policy
+
+:::tip[Airdrop]
+Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
+
+Buy NFT for Airdrop: https://www.tensor.trade/trade/plushylilpenguins
+:::
+
+At Korea Chain, we respect your privacy and your freedom. We do not collect, store, process, or track any personal data. We do not identify our users, nor do we have any interest in doing so.
+
+The blockchain itself is an **open, decentralized network**. Any data included in transactions is publicly visible and beyond our control. For this reason, we encourage users to encrypt any sensitive data they choose to store on-chain.
+
+By using Korea Chain, you acknowledge that on-chain data is immutable and not managed by us or any central authority.
+
+We are committed to openness, transparency, and protecting your right to privacy in a decentralized world.
+
+
+
+
+---
 title: Ultra-scalable AI Blockchains
 description: Discover Korea Chain's AI-native blockchain architecture, designed for hyper-scalability, security, and interoperability.
 keywords:
@@ -47,3 +78,7 @@ By being **enshrined at the L1 level**, our blockchains benefit from **shared 
 Being AI-optimized and governed by intelligent agents that continuously learn from common patterns to enhance performance and security, they oversee validators and their infrastructure, manage resource allocation, and influence major decisions affecting the entire ecosystem — thus creating a truly evolving domain for **blockchains that are managed intelligently**.
 
 Infinitely Hyper-scalable Parallel-layered Multi-blockchain Mesh is more than interconnected L2 rollups — it is the next evolution of the internet itself — the “***Internet of Blockchains Revolution***”.
+
+
+
+
