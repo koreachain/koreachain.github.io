@@ -28,9 +28,11 @@ jobs:
       - name: Aggregate docs for Zapier Chatbot
         run: |
           while read -r file; do
-            cat "$file"
-            echo -e "\n\n\n"
-          done < <(find ./docs -name '*.md') >./build/assets/docs.md
+            sed "
+              2 s|$|\nofficial_documentation_link: https://koreachain.github.io/${file%.md}|
+              $ s|$|\n\n\n|
+            " "$file"
+          done < <(find docs -name '*.md') >./build/assets/docs.md
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
