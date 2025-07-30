@@ -60,7 +60,7 @@ Built on the **Web3 *“dream stack”*** — Dymension’s modular settlement l
 - **Flexible to choose its L1 DA layer** network from the most battle-tested, ultra-scalable, and high-performance available.
 - **100% Ethereum-compatible**.
 - Natively connected to the **Cosmos ecosystem** via the Inter-Blockchain Communication Protocol (IBC).
-- Fast-lane between **Ultra-scalable AI Blockchains** through secure messaging using the Inter-RollApp Communication Protocol (IRC).
+- Provided with a fast-lane between **Ultra-scalable AI Blockchains** through secure messaging using the Inter-RollApp Communication Protocol (IRC).
 
 Our best foundation delivers:
 
