@@ -1,17 +1,22 @@
 ---
-title: Privacy Policy
-official_documentation_link: https://koreachain.github.io/docs/privacy-policy
-description: Learn about Korea Chain's commitment to privacy, data protection, and user freedom. We do not collect personal data.
+title: Security Audits
+official_documentation_link: https://koreachain.github.io/docs/security-audits
+description: Review Korea Chain and NFT-Chain security audits ensuring trust, resilience, and reliability.
 keywords:
-  - privacy
+  - security audits
   - blockchain
-  - data protection
+  - NFT-Chain
   - Korea Chain
-  - crypto
-sidebar_position: 999
+  - resilience
+  - trust
+sidebar_position: 998
 ---
 
-# Privacy Policy
+# Security Audits
+
+:::info[Independent Verification]
+The **NFT-Chain Marketplace** has undergone multiple audits, proving our commitment to **security, trust, and resilience**. Every version of our protocol is rigorously examined to guarantee safety and inspire confidence.
+:::
 
 :::tip[Airdrop]
 Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
@@ -19,13 +24,32 @@ Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sov
 Buy NFT for Airdrop: https://www.tensor.trade/trade/plushylilpenguins
 :::
 
-At Korea Chain, we respect your privacy and your freedom. We do not collect, store, process, or track any personal data. We do not identify our users, nor do we have any interest in doing so.
+Our security-first culture ensures that NFT-Chain is not only a **pioneering Aggregated NFT Layer** but also one that operates on the **highest standards of integrity and assurance**. Through continuous audits, we establish transparency and accountability, empowering our users to collect, trade, and hold NFTs with complete peace of mind.
 
-The blockchain itself is an **open, decentralized network**. Any data included in transactions is publicly visible and beyond our control. For this reason, we encourage users to encrypt any sensitive data they choose to store on-chain.
+## Audit Reports
 
-By using Korea Chain, you acknowledge that on-chain data is immutable and not managed by us or any central authority.
+Explore the full set of audits conducted across the years:
 
-We are committed to openness, transparency, and protecting your right to privacy in a decentralized world.
+- [March 2017 — Foundational Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2017-03.md)  
+- [October 2018 — Security Framework](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2018-10.pdf)  
+- [October 2022 — Checkpoints Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2022-10-Checkpoints.pdf)  
+- [October 2022 — ERC-4626 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2022-10-ERC4626.pdf)  
+- [May 2023 — Version 4.9 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2023-05-v4.9.pdf)  
+- [October 2023 — Version 5.0 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2023-10-v5.0.pdf)  
+- [October 2024 — Version 5.1 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2024-10-v5.1.pdf)  
+- [December 2024 — Version 5.2 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2024-12-v5.2.pdf)  
+
+Each report confirms our **robust architecture**, proactive mitigation of risks, and **constant evolution of best practices** in security engineering.
+
+## Why It Matters
+
+Security is not an afterthought — it is a **core pillar** of NFT-Chain’s mission. By consistently validating our system through independent third-party reviews, we ensure:
+
+- **Trustless protection** — safeguarding your NFTs without centralized risks.  
+- **Protocol-native resilience** — security enshrined at the architecture level.  
+- **Future-proof design** — every iteration builds on stronger foundations.  
+
+NFT-Chain empowers collectors with **confidence and joy**, knowing that the infrastructure securing their assets is constantly tested, verified, and battle-ready.
 
 
 
@@ -83,24 +107,19 @@ Infinitely Hyper-scalable Parallel-layered Multi-blockchain Mesh is more than in
 
 
 ---
-title: Security Audits
-official_documentation_link: https://koreachain.github.io/docs/security-audits
-description: Review Korea Chain and NFT-Chain security audits ensuring trust, resilience, and reliability.
+title: Privacy Policy
+official_documentation_link: https://koreachain.github.io/docs/privacy-policy
+description: Learn about Korea Chain's commitment to privacy, data protection, and user freedom. We do not collect personal data.
 keywords:
-  - security audits
+  - privacy
   - blockchain
-  - NFT-Chain
+  - data protection
   - Korea Chain
-  - resilience
-  - trust
-sidebar_position: 998
+  - crypto
+sidebar_position: 999
 ---
 
-# Security Audits
-
-:::info[Independent Verification]
-The **NFT-Chain Marketplace** has undergone multiple audits, proving our commitment to **security, trust, and resilience**. Every version of our protocol is rigorously examined to guarantee safety and inspire confidence.
-:::
+# Privacy Policy
 
 :::tip[Airdrop]
 Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
@@ -108,32 +127,13 @@ Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sov
 Buy NFT for Airdrop: https://www.tensor.trade/trade/plushylilpenguins
 :::
 
-Our security-first culture ensures that NFT-Chain is not only a **pioneering Aggregated NFT Layer** but also one that operates on the **highest standards of integrity and assurance**. Through continuous audits, we establish transparency and accountability, empowering our users to collect, trade, and hold NFTs with complete peace of mind.
+At Korea Chain, we respect your privacy and your freedom. We do not collect, store, process, or track any personal data. We do not identify our users, nor do we have any interest in doing so.
 
-## Audit Reports
+The blockchain itself is an **open, decentralized network**. Any data included in transactions is publicly visible and beyond our control. For this reason, we encourage users to encrypt any sensitive data they choose to store on-chain.
 
-Explore the full set of audits conducted across the years:
+By using Korea Chain, you acknowledge that on-chain data is immutable and not managed by us or any central authority.
 
-- [March 2017 — Foundational Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2017-03.md)  
-- [October 2018 — Security Framework](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2018-10.pdf)  
-- [October 2022 — Checkpoints Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2022-10-Checkpoints.pdf)  
-- [October 2022 — ERC-4626 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2022-10-ERC4626.pdf)  
-- [May 2023 — Version 4.9 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2023-05-v4.9.pdf)  
-- [October 2023 — Version 5.0 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2023-10-v5.0.pdf)  
-- [October 2024 — Version 5.1 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2024-10-v5.1.pdf)  
-- [December 2024 — Version 5.2 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2024-12-v5.2.pdf)  
-
-Each report confirms our **robust architecture**, proactive mitigation of risks, and **constant evolution of best practices** in security engineering.
-
-## Why It Matters
-
-Security is not an afterthought — it is a **core pillar** of NFT-Chain’s mission. By consistently validating our system through independent third-party reviews, we ensure:
-
-- **Trustless protection** — safeguarding your NFTs without centralized risks.  
-- **Protocol-native resilience** — security enshrined at the architecture level.  
-- **Future-proof design** — every iteration builds on stronger foundations.  
-
-NFT-Chain empowers collectors with **confidence and joy**, knowing that the infrastructure securing their assets is constantly tested, verified, and battle-ready.
+We are committed to openness, transparency, and protecting your right to privacy in a decentralized world.
 
 
 
