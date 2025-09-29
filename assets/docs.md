@@ -1,4 +1,99 @@
 ---
+title: Revenue and Tokenomics
+official_documentation_link: https://koreachain.github.io/docs/nft-chain/revenue-and-tokenomics
+description: Discover NFT-Chain's innovative Revenue and Tokenomics model. Learn how $NFT powers the ecosystem with staking, governance, airdrops, and sustainable growth. Join the Internet of Blockchains Revolution today.
+keywords:
+  - NFT-Chain
+  - $NFT token
+  - blockchain tokenomics
+  - NFT airdrop
+  - multi-chain blockchain
+  - staking rewards
+  - decentralized finance
+  - blockchain governance
+  - liquidity farming
+  - sustainable tokenomics
+  - NFT utility
+  - crypto pre-sale
+sidebar_position: 1
+---
+# Revenue and Tokenomics
+
+:::tip[Airdrop]
+Why don't you join our **Pre-Sale**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
+
+A Multi-Chain experience at https://nft-chain.org
+:::
+
+## **Your NFT: More Than Art**
+
+**On NFT-Chain, every NFT is a key to unlock utility and rewards.**
+
+- **Equal share in the $NFT currency Airdrop.** Each NFT you hold gives you an equal airdrop amount. 100% fair.
+- **Limited Offer: Buy 2 NFTs 🡢 Get 3 NFTs.**
+    - Get ✨**Premium EARLIER AIRDROP Access**✨.
+    - More NFTs = more rewards.
+- **Early Access Perks.** Be first in line for new features, launches, and drops.
+- **Revenue Share for Life.** Own once. Earn forever. On-chain and transparent.
+- **Lifelong Loyalty Benefits.** Boosted revenue share and future NFT drops.
+- **More utility-packed rewards to be revealed.**
+
+## The $NFT Currency
+
+### Pre-Sale
+
+- **Live Pre-Sale as a Multi-Chain experience at [NFT-Chain.org](https://nft-chain.org/).**
+    - Also available from the [Dymension Launchpad](https://portal.dymension.xyz/rollapps/mainnet_72727-1/token).
+    - Korea Chain Pre-Sale soon.
+- **Earn Airdrop Points.** Early adopters are rewarded.
+- **No promises.** Just on-chain decentralized infrastructure.
+
+### Utility
+
+**$NFT powers the entire NFT-Chain blockchain and ecosystem.**
+
+- **Used for payment of NFT Art sales.**
+- **Gas Fees.** Fuel all on-chain transactions. Gas prices are set by AI governance.
+- **Governance.** Help shaping the future of the protocol.
+- **Staking.** Earn rewards for securing the network.
+- **Farming.** Provide liquidity and earn more $NFT.
+- **Pristine Collateral in DeFi.** For loans or mint stablecoins.
+- **More utilities coming.**
+
+### Incentives
+
+- **Airdrop.** For early supporters.
+- **Burning Events.** A week packed with rewards. Burning that reduces supply and rewards holders!
+- **Blockchain Revenue Share.** Stake $NFT to secure the network, receive a consistent share of the NFT-Chain’s success.
+- **Liquidity Farming.** Provide liquidity, earn yield.
+- **RPC Nodes.** Help run the network and get paid for your contribution.
+- **More incentives to be announced.**
+
+### Tokenomics
+
+**$NFT Tokenomics: Built for Sustainable Growth.**
+
+Our token distribution is meticulously designed to foster long-term growth, reward our community, and ensure the resilience of the NFT-Chain ecosystem.
+
+- **Team & Founders: 16%**
+    - **Our Shared Future.** To our fully committed core contributors, aligned with the community's long-term success for years to come. We're here to build.
+    - **Distribution:** 20% on TGE, linear vesting over 1 year.
+- **Growth & Ecosystem Fund: 30%**
+    - **The Catalyst for Mass Adoption.** This powerful fund is dedicated to igniting growth through strategic partnerships, developer and infrastructure grants, global marketing, and rewarding our most active users. This is how we build a thriving, self-sustaining ecosystem.
+    - **Distribution:** Unlocked for providing IBC liquidity.
+- **Community Airdrop: 10%**
+    - **The Well-Deserved Reward.** A significant allocation reserved for our earliest believers. This isn't just an airdrop; it's our thank you to the pioneering NFT and token buyers who helped build NFT-Chain from day one. Your early conviction will be rewarded.
+    - **Distribution:** 20% on Airdrop, linear vesting over 2 years. AI-determined.
+- **Investors & Public Sale: 34%**
+    - **Powering the Vision.** The engine of NFT-Chain, providing the essential capital to build the future of digital ownership. This allocation empowers everyone with the chance of being part of our foundation.
+    - **Distribution:** Vesting to be negotiated.
+- **Protocol Reserve: 10%**
+    - **Future-Proof Treasury.** A strategic reserve that gives the protocol agility and longevity. This treasury allows us to seize future opportunities, enhance security, and ensure the protocol can thrive in any market condition.
+    - **Distribution:** Kept in the Protocol Reserve Vault.
+
+
+
+---
 title: Security Audits
 official_documentation_link: https://koreachain.github.io/docs/security-audits
 description: Review Korea Chain and NFT-Chain security audits ensuring trust, resilience, and reliability.
