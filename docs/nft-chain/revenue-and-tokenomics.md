@@ -19,20 +19,22 @@ sidebar_position: 1
 # Revenue and Tokenomics
 
 :::tip[Airdrop]
-Why don't you join our **Pre-Sale**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
+**The Internet of Blockchains** is evolving. Launching the first AI-sovereign chain: **NFT-Chain**.
 
-A Multi-Chain experience at https://nft-chain.org
+**Pre-Sale Live Now** with exclusive access and rewards that redefine multi-chain potential. Join the revolution at: https://nft-chain.org
 :::
 
-## **Your NFT: More Than Art**
+## **NFT: More Than Art**
 
 **On NFT-Chain, every NFT is a key to unlock utility and rewards.**
 
-- **Equal share in the $NFT currency Airdrop.** Each NFT you hold gives you an equal airdrop amount. 100% fair.
+- **NFT buyers get the $NFT currency Airdrop.**
+    - Each NFT you hold on NFT-Chain gives you an equal airdrop amount. 100% fair.
+    - Participating collections include **"AiFrUiT"** and **"Vegetable Flowers"** on Polygon.
 - **Limited Offer: Buy 2 NFTs, Get 3 NFTs.**
     - Get ✨**Premium EARLIER AIRDROP Access**✨.
-    - More NFTs = more rewards.
-- **Early Access Perks.** Be first in line for new features, launches, and drops.
+    - The more NFTs you buy, the more rewards.
+- **Get Early Access Perks.** Be first in line for new features, launches, and drops.
 - **Revenue Share for Life.** Own once. Earn forever. On-chain and transparent.
 - **Lifelong Loyalty Benefits.** Boosted revenue share and future NFT drops.
 - **More utility-packed rewards to be revealed.**
@@ -45,7 +47,7 @@ A Multi-Chain experience at https://nft-chain.org
     - Also available from the [Dymension Launchpad](https://portal.dymension.xyz/rollapps/mainnet_72727-1/token).
     - Korea Chain Pre-Sale soon.
 - **Earn Airdrop Points.** Early adopters are rewarded.
-- **No promises.** Just on-chain decentralized infrastructure.
+- **Promises?** No, just on-chain decentralized infrastructure.
 
 ### Utility
 
@@ -56,13 +58,13 @@ A Multi-Chain experience at https://nft-chain.org
 - **Governance.** Help shaping the future of the protocol.
 - **Staking.** Earn rewards for securing the network.
 - **Farming.** Provide liquidity and earn more $NFT.
-- **Pristine Collateral in DeFi.** For loans or mint stablecoins.
+- **Pristine Collateral in DeFi.** For loans or minting.
 - **More utilities coming.**
 
 ### Incentives
 
 - **Airdrop.** For early supporters.
-- **Burning Events.** A week packed with rewards. Burning that reduces supply and rewards holders!
+- **Burning Events. 🔥** A week packed with rewards. Burning that reduces supply and rewards holders!
 - **Blockchain Revenue Share.** Stake $NFT to secure the network, receive a consistent share of the NFT-Chain’s success.
 - **Liquidity Farming.** Provide liquidity, earn yield.
 - **RPC Nodes.** Help run the network and get paid for your contribution.
