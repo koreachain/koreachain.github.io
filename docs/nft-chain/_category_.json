@@ -1,0 +1,8 @@
+{
+    "label": "NFT-Chain",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "The Cross-Chain Aggregated NFT Layer."
+    }
+}
