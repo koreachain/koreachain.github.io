@@ -29,7 +29,7 @@ A Multi-Chain experience at https://nft-chain.org
 **On NFT-Chain, every NFT is a key to unlock utility and rewards.**
 
 - **Equal share in the $NFT currency Airdrop.** Each NFT you hold gives you an equal airdrop amount. 100% fair.
-- **Limited Offer: Buy 2 NFTs 🡢 Get 3 NFTs.**
+- **Limited Offer: Buy 2 NFTs, Get 3 NFTs.**
     - Get ✨**Premium EARLIER AIRDROP Access**✨.
     - More NFTs = more rewards.
 - **Early Access Perks.** Be first in line for new features, launches, and drops.
