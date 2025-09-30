@@ -72,10 +72,9 @@ sidebar_position: 1
 
 ### Tokenomics
 
-**$NFT Tokenomics: Built for Sustainable Growth.**
+**$NFT Tokenomics: Built for Sustainable Growth.** Our token distribution is meticulously designed to foster long-term growth, reward our community, and ensure the resilience of the NFT-Chain ecosystem.
 
-Our token distribution is meticulously designed to foster long-term growth, reward our community, and ensure the resilience of the NFT-Chain ecosystem.
-
+**Supply:** 3,000,000,000 $NFT
 - **Team & Founders: 16%**
     - **Our Shared Future.** To our fully committed core contributors, aligned with the community's long-term success for years to come. We're here to build.
     - **Distribution:** 20% on TGE, linear vesting over 1 year.
