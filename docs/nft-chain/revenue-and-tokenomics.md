@@ -26,20 +26,21 @@ sidebar_position: 1
 
 ## **NFT: More Than Art**
 
-**On NFT-Chain, every NFT is a key to unlock utility and rewards.**
+**On NFT-Chain, every NFT is a key to unlock utility and multiple rewards.**
 
-- **NFT buyers get the $NFT currency Airdrop.**
-    - Each NFT you hold on NFT-Chain gives you an equal airdrop amount. 100% fair.
-    - Participating collections include **"AiFrUiT"** and **"Vegetable Flowers"** on Polygon.
+- **NFT holders get the acclaimed $NFT token Airdrop.**
+    - A **fair Airdrop** where each NFT held gives a fixed amount of airdrop points. A once in a lifetime opportunity!
+    - Participating are all collections listed on **NFT-Chain.org**, and **"AiFrUiT"** and **"Vegetable Flowers"** on Polygon.
 - **Limited Offer: Buy 2 NFTs, Get 3 NFTs.**
-    - Get ✨**Premium EARLIER AIRDROP Access**✨.
-    - The more NFTs you buy, the more rewards.
+    - And Get ✨ **EARLIER AIRDROP Premium Access** ✨.
+    - The more NFTs you buy, the more you are rewarded.
+- **Multipliers for the $NFT Token Airdrop.** $NFT token holders who also hold NFTs will be rewarded with multipliers.
+- **Blockchain Revenue Share for Life.** 💝 **Own Once, Forever Earn** a consistent share of the NFT-Chain’s success.
+- **Lifelong Loyalty Benefits.** Boosted revenue share, future NFT drops, and more.
 - **Get Early Access Perks.** Be first in line for new features, launches, and drops.
-- **Revenue Share for Life.** Own once. Earn forever. On-chain and transparent.
-- **Lifelong Loyalty Benefits.** Boosted revenue share and future NFT drops.
 - **More utility-packed rewards to be revealed.**
 
-## The $NFT Currency
+## The $NFT Token
 
 ### Pre-Sale
 
