@@ -118,7 +118,7 @@ The **NFT-Chain Marketplace** has undergone multiple audits, proving our commitm
 :::tip[Airdrop]
 Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
 
-Buy NFT for Airdrop: https://www.tensor.trade/trade/plushylilpenguins
+Buy NFT for Airdrop: [The Royale Society of Iceberg](https://nft-chain.org/collection/iceberg) on the NFT-Chain Marketplace, or [Plushy Lil Penguins](https://www.tensor.trade/trade/plushylilpenguins) on Solana.
 :::
 
 Our security-first culture ensures that NFT-Chain is not only a **pioneering Aggregated NFT Layer** but also one that operates on the **highest standards of integrity and assurance**. Through continuous audits, we establish transparency and accountability, empowering our users to collect, trade, and hold NFTs with complete peace of mind.
@@ -173,7 +173,7 @@ This revolutionary architecture is 100% complete and ready to power the future o
 :::tip[Airdrop]
 Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
 
-Buy NFT for Airdrop: https://www.tensor.trade/trade/plushylilpenguins
+Buy NFT for Airdrop: [The Royale Society of Iceberg](https://nft-chain.org/collection/iceberg) on the NFT-Chain Marketplace, or [Plushy Lil Penguins](https://www.tensor.trade/trade/plushylilpenguins) on Solana.
 :::
 
 Built on the **Web3 *“dream stack”*** — Dymension’s modular settlement layer + Celestia’s ultra-scalable data availability layer, and leveraging the full power of ***Go Ethereum v1.12.0, Dymension RDK v1.10.0, the Cosmos SDK v0.46.16, CometBFT v0.34.29 Tendermint, Evmos v12, Ethermint v0.22.0, and Celestia v0.23.5***, our blockchains are:
@@ -221,7 +221,7 @@ sidebar_position: 999
 :::tip[Airdrop]
 Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
 
-Buy NFT for Airdrop: https://www.tensor.trade/trade/plushylilpenguins
+Buy NFT for Airdrop: [The Royale Society of Iceberg](https://nft-chain.org/collection/iceberg) on the NFT-Chain Marketplace, or [Plushy Lil Penguins](https://www.tensor.trade/trade/plushylilpenguins) on Solana.
 :::
 
 At Korea Chain, we respect your privacy and your freedom. We do not collect, store, process, or track any personal data. We do not identify our users, nor do we have any interest in doing so.
