@@ -20,7 +20,7 @@ The **NFT-Chain Marketplace** has undergone multiple audits, proving our commitm
 :::tip[Airdrop]
 Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
 
-Buy NFT for Airdrop: https://www.tensor.trade/trade/plushylilpenguins
+Buy NFT for Airdrop: [The Royale Society of Iceberg](https://nft-chain.org/collection/iceberg) on the NFT-Chain Marketplace, or [Plushy Lil Penguins](https://www.tensor.trade/trade/plushylilpenguins) on Solana.
 :::
 
 Our security-first culture ensures that NFT-Chain is not only a **pioneering Aggregated NFT Layer** but also one that operates on the **highest standards of integrity and assurance**. Through continuous audits, we establish transparency and accountability, empowering our users to collect, trade, and hold NFTs with complete peace of mind.

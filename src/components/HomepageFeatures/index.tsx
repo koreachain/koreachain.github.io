@@ -1,6 +1,6 @@
-import type {ReactNode} from 'react';
-import clsx from 'clsx';
 import Heading from '@theme/Heading';
+import clsx from 'clsx';
+import type { ReactNode } from 'react';
 import styles from './styles.module.css';
 
 type FeatureItem = {
@@ -16,8 +16,8 @@ const FeatureList: FeatureItem[] = [
     Img: require('@site/static/img/left.jpg').default,
     description: (
       <>
-        AI-native architecture powering our sovereign Korea Chain and NFT·Chain. 
-        A future-ready network of parallel RollApps, each AI-optimized and governed by intelligent agents. 
+        AI-native architecture powering our sovereign Korea Chain and NFT·Chain.
+        A future-ready network of parallel RollApps, each AI-optimized and governed by intelligent agents.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
     Img: require('@site/static/img/center.jpg').default,
     description: (
       <>
-        Buyers get a slice of the <a href="https://www.tensor.trade/trade/plushylilpenguins" target="_blank" rel="noopener noreferrer">Korea Chain Airdrop + Lifetime Revenue Share + Rewards Forever</a>!
+        Buyers get a slice of the <a href="https://nft-chain.org/collection/iceberg" target="_blank" rel="noopener noreferrer">Korea Chain Airdrop + Lifetime Revenue Share + Rewards Forever</a>!
         Uniquely lovable heart-stealers made to melt hearts and spark imaginations.
         Get yours before they’re gone!
       </>
@@ -37,8 +37,8 @@ const FeatureList: FeatureItem[] = [
     Img: require('@site/static/img/right.jpg').default,
     description: (
       <>
-        Blazing-fast, ultra-secure, zero-carbon blockchain: 20K TPS, 200ms finality, 
-        military-grade security, national-scale ready, privacy-first, 
+        Blazing-fast, ultra-secure, zero-carbon blockchain: 20K TPS, 200ms finality,
+        military-grade security, national-scale ready, privacy-first,
         and 6x more efficient than other solutions.
       </>
     ),
@@ -54,8 +54,8 @@ function Feature({title, Svg, Img, description}: FeatureItem) {
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">
-          {title === 'Plushy Lil Penguins NFT' ? (
-            <a href="https://www.tensor.trade/trade/plushylilpenguins" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'underline'}}>
+          {title === 'The Royale Society of Iceberg NFT' ? (
+            <a href="https://nft-chain.org/collection/iceberg" target="_blank" rel="noopener noreferrer" style={{color: 'inherit', textDecoration: 'underline'}}>
               {title}
             </a>
           ) : title === 'Ultra-scalable AI Blockchains' ? (

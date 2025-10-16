@@ -15,7 +15,7 @@ sidebar_position: 999
 :::tip[Airdrop]
 Why don't you join our **Airdrop**? Get exclusive access to the pioneer **AI-sovereign blockchains**, and rewards never seen before in crypto. This is your chance to be part of the **Internet of Blockchains Revolution**.
 
-Buy NFT for Airdrop: https://www.tensor.trade/trade/plushylilpenguins
+Buy NFT for Airdrop: [The Royale Society of Iceberg](https://nft-chain.org/collection/iceberg) on the NFT-Chain Marketplace, or [Plushy Lil Penguins](https://www.tensor.trade/trade/plushylilpenguins) on Solana.
 :::
 
 At Korea Chain, we respect your privacy and your freedom. We do not collect, store, process, or track any personal data. We do not identify our users, nor do we have any interest in doing so.
