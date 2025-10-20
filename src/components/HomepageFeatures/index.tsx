@@ -37,7 +37,7 @@ const FeatureList: FeatureItem[] = [
     Img: require('@site/static/img/right.jpg').default,
     description: (
       <>
-        Blazing-fast, ultra-secure, zero-carbon blockchain: 20K TPS, 200ms finality,
+        Blazing-fast, ultra-secure, eco-friendly blockchain: 20K TPS, 200ms finality,
         military-grade security, national-scale ready, privacy-first,
         and 6x more efficient than other solutions.
       </>
