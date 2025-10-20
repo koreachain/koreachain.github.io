@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Plushy Lil Penguins NFT',
+    title: 'The Royale Society of Iceberg NFT',
     Img: require('@site/static/img/center.jpg').default,
     description: (
       <>
