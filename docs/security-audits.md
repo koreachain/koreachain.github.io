@@ -14,7 +14,7 @@ sidebar_position: 998
 # Security Audits
 
 :::info[Independent Verification]
-The **NFT-Chain Marketplace** has undergone multiple audits, proving our commitment to **security, trust, and resilience**. Every version of our protocol is rigorously examined to guarantee safety and inspire confidence.
+The **NFT-Chain Smart Contracts** have undergone multiple audits, proving our commitment to **security, trust, and resilience**. Every version of our protocol is rigorously examined to guarantee safety and inspire confidence.
 :::
 
 :::tip[Airdrop]
