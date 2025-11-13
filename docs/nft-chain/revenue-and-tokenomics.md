@@ -45,8 +45,7 @@ sidebar_position: 1
 ### Pre-Sale
 
 - **Live Pre-Sale as a Multi-Chain experience at [NFT-Chain.org](https://nft-chain.org/).**
-    - Also available from the [Dymension Launchpad](https://portal.dymension.xyz/rollapps/mainnet_72727-1/token).
-    - Korea Chain Pre-Sale soon.
+    - Korea Chain Pre-Sale now jointly available!
 - **Earn Airdrop Points.** Early adopters are rewarded.
 - **Promises?** No, just on-chain decentralized infrastructure.
 
