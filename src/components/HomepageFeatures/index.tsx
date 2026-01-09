@@ -16,7 +16,7 @@ const FeatureList: FeatureItem[] = [
     Img: require('@site/static/img/left.jpg').default,
     description: (
       <>
-        AI-native architecture powering our sovereign Korea Chain and NFT·Chain.
+        AI-native architecture powering our sovereign Korea Chain and NFT-Chain.
         A future-ready network of parallel RollApps, each AI-optimized and governed by intelligent agents.
       </>
     ),
