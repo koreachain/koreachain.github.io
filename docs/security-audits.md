@@ -27,16 +27,20 @@ Our security-first culture ensures that NFT-Chain is not only a **pioneering Agg
 
 ## Audit Reports
 
-Explore the full set of audits conducted across the years:
+Smart Contracts:
 
-- [March 2017 — Foundational Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2017-03.md)  
-- [October 2018 — Security Framework](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2018-10.pdf)  
-- [October 2022 — Checkpoints Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2022-10-Checkpoints.pdf)  
-- [October 2022 — ERC-4626 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2022-10-ERC4626.pdf)  
-- [May 2023 — Version 4.9 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2023-05-v4.9.pdf)  
-- [October 2023 — Version 5.0 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2023-10-v5.0.pdf)  
-- [October 2024 — Version 5.1 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2024-10-v5.1.pdf)  
-- [December 2024 — Version 5.2 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2024-12-v5.2.pdf)  
+- [MultiChainVault Audit](https://nft-chain.org/cdn/audits/MultiChainVault.md)
+
+Foundational Code:
+
+- [Version 5.2 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2024-12-v5.2.pdf)
+- [Version 5.1 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2024-10-v5.1.pdf)
+- [Version 5.0 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2023-10-v5.0.pdf)
+- [Version 4.9 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2023-05-v4.9.pdf)
+- [ERC-4626 Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2022-10-ERC4626.pdf)
+- [Checkpoints Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2022-10-Checkpoints.pdf)
+- [Security Framework](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2018-10.pdf)
+- [Foundational Audit](https://link.storjshare.io/s/jv6cwjcnahbeoekjsbb4yi3ypzna/nft/audits/2017-03.md)
 
 Each report confirms our **robust architecture**, proactive mitigation of risks, and **constant evolution of best practices** in security engineering.
 
