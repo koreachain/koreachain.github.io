@@ -76,8 +76,8 @@ sidebar_position: 1
 **$NFC Tokenomics: Built for Sustainable Growth.** Our token distribution is meticulously designed to foster long-term growth, reward our community, and ensure the resilience of the NFT-Chain ecosystem.
 
 **Supply:** 3,000,000,000 $NFC
-- **Team & Founders: 16%**
-    - **Our Shared Future.** To our fully committed core contributors, aligned with the community's long-term success for years to come. We're here to build.
+- **Team & Founders: 25%**
+    - **Our Shared Future.** To our fully committed core contributors, aligned with the community's long-term success for years to come.
     - **Distribution:** 20% on TGE, linear vesting over 1 year.
 - **Growth & Ecosystem Fund: 30%**
     - **The Catalyst for Mass Adoption.** This powerful fund is dedicated to igniting growth through strategic partnerships, developer and infrastructure grants, global marketing, and rewarding our most active users. This is how we build a thriving, self-sustaining ecosystem.
@@ -85,7 +85,7 @@ sidebar_position: 1
 - **Community Airdrop: 10%**
     - **The Well-Deserved Reward.** A significant allocation reserved for our earliest believers. This isn't just an airdrop; it's our thank you to the pioneering NFT and token buyers who helped build NFT-Chain from day one. Your early conviction will be rewarded.
     - **Distribution:** 20% on Airdrop, linear vesting over 2 years. AI-determined.
-- **Investors & Public Sale: 34%**
+- **Investors & Public Sale: 25%**
     - **Powering the Vision.** The engine of NFT-Chain, providing the essential capital to build the future of digital ownership. This allocation empowers everyone with the chance of being part of our foundation.
     - **Distribution:** Vesting to be negotiated.
 - **Protocol Reserve: 10%**
