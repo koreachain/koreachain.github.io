@@ -26,31 +26,19 @@ sidebar_position: 1
 
 ## **NFT: More Than Art**
 
-:::danger[Limited Offer]
-**2 NFTs get you even more** than our Airdrop, Revenue Share, and Multipliers:
-- **1 Free NFT** 🚀 for every 2 NFTs purchased!
-- Premium **✨🚨 Early Airdrop Access 🚨👀**
-
-The more NFTs you hold, the more you are rewarded!
-:::
-
-On NFT-Chain, every NFT is a key to unlock utility and multiple rewards.
+**On NFT-Chain, every NFT is a key to unlock utility and multiple rewards.**
 
 - **NFT holders get the acclaimed $NFC token Airdrop.**
     - A **fair Airdrop** where each NFT held gives a fixed amount of airdrop points. A once in a lifetime opportunity!
-    - Participating collections:
-        - All collections listed on **NFT-Chain.org**.
-        - **"AiFrUiT"** and **"Vegetable Flowers"** on Polygon (12,000 points per NFT, for sales made starting in 2026).
-- **Multipliers for the $NFC Token Airdrop.** Airdrop participants holding NFTs will be rewarded with multipliers.
-- **Blockchain Revenue Share for <u>3 Years</u> 💝.** Own once, and earn a consistent share of the NFT-Chain’s success.
-- **Lifelong Loyalty Benefits.**
-    - Receive NFT drops and NFT badges.
-    - Boosted Revenue Share programs.
-    - And much more!
-- **Early Access Perks.** Be first in line for new features, launches, and NFTs.
-- More utility-packed rewards to be revealed!
-
-<small>*\* Free NFTs will be distributed in the next stage.*</small>
+    - Participating are all collections listed on **NFT-Chain.org**, and **"AiFrUiT"** and **"Vegetable Flowers"** on Polygon.
+- **Limited Offer: Buy 2 NFTs, Get 3 NFTs.**
+    - And Get ✨ **EARLIER AIRDROP Premium Access** ✨.
+    - The more NFTs you buy, the more you are rewarded.
+- **Multipliers for the $NFC Token Airdrop.** $NFC token holders who also hold NFTs will be rewarded with multipliers.
+- **Blockchain Revenue Share for Life.** 💝 **Own Once, Forever Earn** a consistent share of the NFT-Chain’s success.
+- **Lifelong Loyalty Benefits.** Boosted revenue share, future NFT drops, and more.
+- **Get Early Access Perks.** Be first in line for new features, launches, and drops.
+- **More utility-packed rewards to be revealed.**
 
 ## The $NFC Token
 
@@ -65,7 +53,7 @@ On NFT-Chain, every NFT is a key to unlock utility and multiple rewards.
 
 **$NFC powers the entire NFT-Chain blockchain and ecosystem.**
 
-- **Used for payment of NFT sales.**
+- **Used for payment of NFT Art sales.**
 - **Gas Fees.** Fuel all on-chain transactions. Gas prices are set by AI governance.
 - **Governance.** Help shaping the future of the protocol.
 - **Staking.** Earn rewards for securing the network.
@@ -95,7 +83,7 @@ On NFT-Chain, every NFT is a key to unlock utility and multiple rewards.
     - **Distribution:** Unlocked for providing IBC liquidity.
 - **Community Airdrop: 10%**
     - **The Well-Deserved Reward.** A significant allocation reserved for our earliest believers. This isn't just an airdrop; it's our thank you to the pioneering NFT and token buyers who helped build NFT-Chain from day one. Your early conviction will be rewarded.
-    - **Distribution:** 20% on Airdrop, linear vesting over 2 years. Best for long-term price stability and building trust, according to our AI governor.
+    - **Distribution:** 20% on Airdrop, linear vesting over 2 years. AI-determined.
 - **Investors & Public Sale: 34%**
     - **Powering the Vision.** The engine of NFT-Chain, providing the essential capital to build the future of digital ownership. This allocation empowers everyone with the chance of being part of our foundation.
     - **Distribution:** Vesting to be negotiated.
